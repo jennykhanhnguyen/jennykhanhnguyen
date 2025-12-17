@@ -9,7 +9,7 @@ Focusing on full-stack development, backend & infrastructure, data systems, and 
 
 <img align="right" alt="Galaxy cat floating in space" width="330" src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" />
 
-- 🌸 Computer Science @ [**Denison University**][denison] (Expected May 2027, GPA: 3.84)
+- 🌸 Computer Science @ [**Denison University**][denison] 
 - 💼 Google For Developers Program @ **Google**
 - 💼 Software Engineer Intern @ **Deloitte** (Fraud Detection Team)
 - 💼 Software Engineer Intern @ **Bettr Analytics** (Web Development Team)
