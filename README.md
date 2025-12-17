@@ -1,15 +1,15 @@
 # Hi, I'm Jenny Nguyen :wave:
 
-Computer Science & Data-Oriented Software Engineering Student  
+Computer Science & Data Analytics Student  
 Focusing on full-stack development, backend & infrastructure, data systems, and machine learning
 
 ---
 
 ## Life
 
-<img align="right" alt="Galaxy cat floating in space" width="330" src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" />
+<img align="right" width="240" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
 
-- 🌸 Computer Science @ [**Denison University**][denison] 
+- 🌷 **Computer Science** and **Data Analytics** at [**Denison University**][denison]
 - 💼 Google For Developers Program @ **Google**
 - 💼 Software Engineer Intern @ **Deloitte** (Fraud Detection Team)
 - 💼 Software Engineer Intern @ **Bettr Analytics** (Web Development Team)
@@ -20,7 +20,7 @@ Focusing on full-stack development, backend & infrastructure, data systems, and 
 - 🏆 **Chosaburo Kato Memorial Award** (Most Promising CS Major Junior)
 - 🏆 **Forbes B. Wiley Award** (x2 – CS & Math Academic Excellence)
 - 🌍 Denison representative at **ICPC, SWE, MAA, NCUWM, NACA**
-- 🧑‍💼 Vice President, **University Programming Council**
+- 🧑‍💼 Vice President @ [**University Programming Council**][upc]
 - 🌱 Mentee, **AWS She Builds Mentorship Program**
 
 ---
@@ -81,4 +81,6 @@ Focusing on full-stack development, backend & infrastructure, data systems, and 
 </a>
 </div>
 
+[denison]: https://denison.edu
+[upc]: https://www.instagram.com/denisonupc/
 
